@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HceDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_into">Reader mode active</string>
+    <string name="aiddescription">aiddescription</string>
+    <string name="servicedesc">servicedesc</string>
+    <string name="url1">http://217.218.21.245:2080/NFC/getrequest.php?name=%1$s</string>
+    <string name="url2">http://217.218.21.245:2080/NFC/check.php?name=%1$s%2$scode=%3$s</string>
+    <string name="check">Found matches:%1$s%2$s%3$s%4$s</string>
+    <string name="pref_previously_started"></string>
+    <string name="phonenumber"></string>
+    <string name="codecheck"></string>
+</resources>
